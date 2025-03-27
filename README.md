@@ -2,11 +2,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <title>Hello, World!</title>
+    <title>
+      Hello, World!
+    </title>
     <br>
     <br>
   <body>
-    - ⚡ Fun fact: You can kill baby mosquitos by blasting Cardy B with a special speaker
+    <p>
+      ⚡ Fun fact: You can kill baby mosquitos by blasting Cardy B with a special speaker
+    </p>
   </body>
 
 </html>
