@@ -4,11 +4,12 @@
     <br>
     <br>
   <body>
-    <marquee>السلام عليك</marquee>
+    <marquee></marquee>
 
-    <p>
+      السلام عليك
+
+      
       ⚡ Fun fact: You can kill baby mosquitos by blasting Cardy B with a special speaker
-    </p>
   </body>
 
 </html>
