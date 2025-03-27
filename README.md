@@ -1,18 +1,25 @@
+`#0969DA`
 
-<!DOCTYPE html>
-<html>
-    <br>
-    <br>
-  <body>
-    <marquee></marquee>
+      الله أكبر ☝️🙏
 
-      السلام عليك
+<void>
+Fun fact: You can kill baby mosquitos by blasting Cardy B with a special speaker :trollface:
 
-      
-      ⚡ Fun fact: You can kill baby mosquitos by blasting Cardy B with a special speaker
-  </body>
+    
 
-</html>
+
+<hr>
+
+>"Don't cry because it's over, smile because it happened."
+>-Dr. Seuss
+
+>"We didn't realize we were making memories, we just knew we were having fun."
+>-Winnie the Pooh
+
+>"[V]anity of vanities! All is vanity." [Ecclesiastes 1:2]
+
+
+
 
 <!---
 red-Camel/red-Camel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
