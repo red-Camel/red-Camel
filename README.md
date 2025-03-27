@@ -1,11 +1,11 @@
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <marquee>'السلام عليك'</marquee>
     <br>
     <br>
   <body>
+    <marquee>السلام عليك</marquee>
+
     <p>
       ⚡ Fun fact: You can kill baby mosquitos by blasting Cardy B with a special speaker
     </p>
