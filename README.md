@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    السلام عليك 
+    <marquee>السلام عليك</marquee>
     <br>
     <br>
   <body>
